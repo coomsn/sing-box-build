@@ -1,4 +1,4 @@
-name: Build Core
+name: Build sing-box_Core
 
 on:
   workflow_dispatch:
